@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>..\EMToolBox</id>
+    <id>EMToolBox</id>
     <version>1.0.0</version>
     <authors>Eddy</authors>
     <owners>Eddy</owners>
